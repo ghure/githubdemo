@@ -1,0 +1,6 @@
+framework module Pods_PhonePeAssignmentTests {
+  umbrella header "Pods-PhonePeAssignmentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

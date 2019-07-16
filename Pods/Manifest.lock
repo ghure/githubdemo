@@ -1,0 +1,16 @@
+PODS:
+  - SKActivityIndicatorView (0.1.0)
+
+DEPENDENCIES:
+  - SKActivityIndicatorView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SKActivityIndicatorView
+
+SPEC CHECKSUMS:
+  SKActivityIndicatorView: f46936f760d33eb8235333242269bf01cc9248ae
+
+PODFILE CHECKSUM: 93db74d7c2a477fb8c5d582ee245dd2a57a685ad
+
+COCOAPODS: 1.5.3
